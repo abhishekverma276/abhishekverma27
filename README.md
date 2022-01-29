@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abhishek Verma
+- 👋 Hi, I’m Abhishek Verma.
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning C programming, DSA.
 - 💞️ I’m looking to collaborate on ...
