@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning C programming, DSA.
 - 💞️ I’m looking to collaborate on ...
-- 📫 To reach me, mail: abhishek27.sv@gmail.com
+- 📫 Reach me @ abhishek27.sv@gmail.com
 
 <!---
 abhishekverma27/abhishekverma27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
