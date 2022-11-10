@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek Verma.
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning C programming, DSA.
+- 🌱 I’m currently learning DSA in cpp.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me @ abhishek27.sv@gmail.com
 
