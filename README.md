@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhishek Verma.
-- 👀 I’m interested in Cyber Security.
-- 🌱 I’m currently Practicing DSA in c++.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Cyber Security, Software Development & front-end web dev.
+- 🌱 I’m currently learning development.
+- 💞️ I’m looking to collaborate on open source software projects.
 - 📫 Reach me @ abhishek27.sv@gmail.com
 
 <!---
